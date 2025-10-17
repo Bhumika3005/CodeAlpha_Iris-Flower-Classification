@@ -2,7 +2,7 @@ This project demonstrates how to classify Iris flowers into one of three species
 
 The goal is to build a classification model using Scikit-learn, evaluate its performance, and understand the fundamentals of classification in machine learning.
 
-Objectives
+Objectives :
 
 Load and understand the Iris dataset.
 
